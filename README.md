@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b>WEARESOB</b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    <b>SOB</b> WEARE SOB IS A COMMUNITY OF  LEAKS AND OPEN SOURCE TOOLS.
+    <br>IN THE SAME WAY WE CREATE AND IMPROVE TOOLS FOR USE BY THE COMMUNITY<br>
 
 </samp>
 
