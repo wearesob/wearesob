@@ -10,4 +10,4 @@
 
 </p>
 
-⭐️ DISCORD [WEARESOB](https://github.com/wearesob)
+✡ DISCORD [WEARESOB](https://github.com/wearesob)
