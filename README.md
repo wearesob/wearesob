@@ -7,4 +7,4 @@
 
 </details>
 
-⭐️ From [TanZng](https://github.com/TanZng)
+⭐️ From [WEARESOB](https://github.com/wearesob)
