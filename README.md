@@ -10,6 +10,6 @@
 
 </p>
 
-◾ WEARESOB [WEBSITE](https://www.wearesob.com)
-◾ WEARESOB [DISCORD](https://discord.gg/uedagaPtWR)
-◾ WEARESOB [YOUTUBE](https://www.youtube.com/channel/UCoNm4FgQ_BQcElu99GTSnoA)
+<br>◾ WEARESOB [WEBSITE](https://www.wearesob.com)
+<br>◾ WEARESOB [DISCORD](https://discord.gg/uedagaPtWR)
+<br>◾ WEARESOB [YOUTUBE](https://www.youtube.com/channel/UCoNm4FgQ_BQcElu99GTSnoA)
