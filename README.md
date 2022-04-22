@@ -10,4 +10,4 @@
 
 </p>
 
-◾ DISCORD [WEARESOB](https://github.com/wearesob)
+◾ WEARESOB [DISCORD](https://discord.gg/uedagaPtWR)
