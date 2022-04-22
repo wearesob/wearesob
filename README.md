@@ -1,11 +1,8 @@
-<details align="center">
-
-<b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-
 
 <p align="center">
+  
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+  
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/%22%3E
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
