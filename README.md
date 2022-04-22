@@ -1,7 +1,6 @@
 <details align="center">
 
 <b>
-<samp>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
@@ -25,8 +24,6 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path%22%3
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
-
-</samp>
 </details>
 
 ⭐️ From [TanZng](https://github.com/TanZng)
